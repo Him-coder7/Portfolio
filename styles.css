@@ -64,3 +64,6 @@ h1{
 li{
     color: white;
 }
+div #about-me{
+    bottom-padding: 50px;
+}
